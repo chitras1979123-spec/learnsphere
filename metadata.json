@@ -1,0 +1,7 @@
+{
+  "name": "LearnSphere",
+  "description": "An adaptive, gamified e-learning platform with a secure online examination system. Content adjusts based on performance, and a proctoring system monitors for cheating during exams. Earn points and badges to climb the leaderboard!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
